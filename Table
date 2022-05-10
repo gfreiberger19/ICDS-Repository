@@ -1,0 +1,23 @@
+ <table>
+      <tr>
+        <th>Name</th>
+        <th>Size</th>
+        <th>Behavior</th>
+        <th>Habitat</th>
+      </tr>
+      <tr>
+        <td>sloth
+        <td>medium</td>
+        <td>slow</td>
+        <td>Rainforests</td>
+      </tr>
+      <tr>
+        <td>Capybera</td>
+        <td>Small</td>
+        <td>Adorable</td>
+        <td>Who Knows</td> 
+      </tr>
+    </table>  
+        
+  </body>
+</html>
